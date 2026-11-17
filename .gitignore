@@ -1,0 +1,8 @@
+# Kaggle competition data (download from Kaggle; not redistributable)
+train.csv
+test.csv
+sample_submission.csv
+
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
